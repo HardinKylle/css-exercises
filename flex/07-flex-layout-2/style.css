@@ -46,7 +46,6 @@ a{
   display: flex;
   flex: 1 0 auto;
   padding: 0;
-  gap: 100px;
 }
 
 .card {
